@@ -1,0 +1,36 @@
+.inline{
+    display: inline;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+div{
+    margin-top: 2%;
+}
+
+h1{
+    text-align: center;
+}
+
+.form{
+    padding: 10px;
+}
+
+input{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+label{
+    margin-left: 0px;
+    margin-right: 5px;
+}
+
+.section{
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 18px;    
+}
